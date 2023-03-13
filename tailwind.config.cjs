@@ -3,10 +3,14 @@ module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     colors: {
+      transparent: 'transparent',
       cp1: '#F0ECE3',
       main: '#1c1f2e',
       secondary:'#2b2d42',
-      third:'#e41d60',
+      third: {
+        '100': '#e41d60',
+        '200': '#b5164b',
+      },
       fourth:'#841de4',
       fifth:'#e41d98',
       darkTransparent: '#13131d80',

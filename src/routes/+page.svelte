@@ -19,7 +19,7 @@
     </div>
     <div class="hero__footer w-full">
         <div class="grid__goto__wrapper mt-5 mb-5 h-[256px] w-[256px] m-auto">
-            <div class="h-full w-full grid grid-cols-6 grid-rows-3 gap-2">
+            <div class="h-full w-full grid grid-cols-6 grid-rows-3 gap-3">
                 <div class="goto goto1">
                     <a href="#0">
                         <span>Socials</span>
